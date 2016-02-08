@@ -9,7 +9,7 @@
 
 4. Make another array of your followers and store it in a variable called followers.
 
-5. Use a built-in method for arrays to add another tweet to the tweets array.
+5. On the next line, add another tweet to the tweets array.
  
 6. Print out the user's timeline. Format it with the tweet in the last index position at the top of the timeline. Make it look something like this:
 
@@ -22,6 +22,7 @@
       Anyone wanna go eat some caramels later?
       Hey, this is my first tweet!
       ```
+Hint: adding "\n" into your string will start a new line.
 
 7. Print the following statement without hardcoding the entire string. That is, use array methods and string interpolation to include the username, number of tweets, and number of followers.
 
